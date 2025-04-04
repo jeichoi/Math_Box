@@ -1,4 +1,4 @@
-#기본 계산기 main
+#기본 계산기_free
 def add(a,b):
     return a+b
 def subtract(a,b):
